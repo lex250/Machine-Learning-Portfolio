@@ -2,7 +2,7 @@
 
 Welcome to my **Machine Learning Portfolio**, showcasing projects
 focused on building, evaluating, and interpreting predictive models
-using modern machine learning techniques.
+using machine learning techniques.
 
 ## About This Repository
 
@@ -51,4 +51,3 @@ Every project is prepared to demonstrate:
 
 ------------------------------------------------------------------------
 
-**Author:** Leslie Jerry Anubi
